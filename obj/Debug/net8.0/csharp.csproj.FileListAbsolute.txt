@@ -1,0 +1,15 @@
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/csharp.sourcelink.json
+/Users/rayarnold/Documents/csharp/bin/Debug/net8.0/csharp
+/Users/rayarnold/Documents/csharp/bin/Debug/net8.0/csharp.deps.json
+/Users/rayarnold/Documents/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/Users/rayarnold/Documents/csharp/bin/Debug/net8.0/csharp.dll
+/Users/rayarnold/Documents/csharp/bin/Debug/net8.0/csharp.pdb
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/csharp.dll
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/refint/csharp.dll
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/csharp.pdb
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/Users/rayarnold/Documents/csharp/obj/Debug/net8.0/ref/csharp.dll
